@@ -1,5 +1,5 @@
 ### Introduction:
-This is an example of the creational design pattern called "Factory Method" for an app that helps you learn about design patterns, you can find that app [here](https://github.com/JoseMartinez117/AppPatrones "here").
+This is an example of the creational design pattern called "Abstract Factory" for an app that helps you learn about design patterns, you can find that app [here](https://github.com/JoseMartinez117/AppPatrones "here").
 
 #### About: 
 The example tries to simulate the crafting system used in Minecraft, where different categories of tools allow you to interact in a specific way with the game, but each tool in the same category is different from the others.
